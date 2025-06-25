@@ -20,11 +20,13 @@ Stat:📈
 | ------- |
 | [0001-two-sum](https://github.com/23A91A0537/LeetCode/tree/master/0001-two-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23A91A0537/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A0537/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,8 @@ Stat:📈
 |  |
 | ------- |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
