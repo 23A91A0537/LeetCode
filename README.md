@@ -19,6 +19,7 @@ Stat:📈
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23A91A0537/LeetCode/tree/master/0001-two-sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -42,6 +43,7 @@ Stat:📈
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Counting
 |  |
@@ -72,9 +74,14 @@ Stat:📈
 ## Sorting
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
