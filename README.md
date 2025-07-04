@@ -12,11 +12,13 @@ Stat:📈
 | ------- |
 | [0002-add-two-numbers](https://github.com/23A91A0537/LeetCode/tree/master/0002-add-two-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/23A91A0537/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/23A91A0537/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/23A91A0537/LeetCode/tree/master/0002-add-two-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/23A91A0537/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/23A91A0537/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Stat:📈
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/23A91A0537/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/23A91A0537/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
