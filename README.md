@@ -27,6 +27,7 @@ Stat:📈
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/23A91A0537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0537/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/23A91A0537/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -58,6 +59,7 @@ Stat:📈
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Counting
 |  |
@@ -69,6 +71,7 @@ Stat:📈
 ## Dynamic Programming
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/23A91A0537/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/23A91A0537/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
@@ -95,6 +98,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/23A91A0537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
