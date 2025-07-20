@@ -32,6 +32,7 @@ Stat:📈
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/23A91A0537/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/23A91A0537/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -50,6 +51,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23A91A0537/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/23A91A0537/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/23A91A0537/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -58,6 +60,7 @@ Stat:📈
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A0537/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/23A91A0537/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/23A91A0537/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/23A91A0537/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/23A91A0537/LeetCode/tree/master/3396-valid-word) |
@@ -163,4 +166,9 @@ Stat:📈
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/23A91A0537/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
