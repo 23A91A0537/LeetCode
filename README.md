@@ -63,6 +63,7 @@ Stat:📈
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A0537/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/23A91A0537/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/23A91A0537/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/23A91A0537/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/23A91A0537/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/23A91A0537/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -103,6 +104,7 @@ Stat:📈
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/23A91A0537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/23A91A0537/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/23A91A0537/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/23A91A0537/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/23A91A0537/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -175,4 +177,8 @@ Stat:📈
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/23A91A0537/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
