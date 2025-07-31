@@ -27,6 +27,7 @@ Stat:📈
 | ------- |
 | [0001-two-sum](https://github.com/23A91A0537/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/23A91A0537/LeetCode/tree/master/0016-3sum-closest) |
 | [0135-candy](https://github.com/23A91A0537/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -153,6 +154,7 @@ Stat:📈
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/23A91A0537/LeetCode/tree/master/0016-3sum-closest) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/23A91A0537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -170,6 +172,7 @@ Stat:📈
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/23A91A0537/LeetCode/tree/master/0016-3sum-closest) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/23A91A0537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/23A91A0537/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
