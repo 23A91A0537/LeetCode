@@ -30,6 +30,7 @@ Stat:📈
 | [0004-median-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/23A91A0537/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/23A91A0537/LeetCode/tree/master/0018-4sum) |
+| [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/23A91A0537/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -117,6 +118,7 @@ Stat:📈
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/23A91A0537/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
