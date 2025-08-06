@@ -69,6 +69,7 @@ Stat:📈
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/23A91A0537/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/23A91A0537/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Stat:📈
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/23A91A0537/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/23A91A0537/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Stat:📈
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/23A91A0537/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,4 +291,5 @@ Stat:📈
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
