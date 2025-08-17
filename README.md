@@ -19,6 +19,7 @@ Stat:📈
 | [0231-power-of-two](https://github.com/23A91A0537/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/23A91A0537/LeetCode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/23A91A0537/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0537/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/23A91A0537/LeetCode/tree/master/1448-maximum-69-number) |
@@ -121,6 +122,7 @@ Stat:📈
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A0537/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/23A91A0537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/23A91A0537/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/23A91A0537/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -153,6 +155,7 @@ Stat:📈
 | [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0826-soup-servings](https://github.com/23A91A0537/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/23A91A0537/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/23A91A0537/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -321,4 +324,5 @@ Stat:📈
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/23A91A0537/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
