@@ -18,6 +18,7 @@ Stat:📈
 | [0002-add-two-numbers](https://github.com/23A91A0537/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/23A91A0537/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/23A91A0537/LeetCode/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/23A91A0537/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -47,6 +48,7 @@ Stat:📈
 | [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/23A91A0537/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/23A91A0537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/23A91A0537/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -189,6 +191,7 @@ Stat:📈
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/23A91A0537/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/23A91A0537/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/23A91A0537/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
