@@ -47,6 +47,7 @@ Stat:📈
 | [0016-3sum-closest](https://github.com/23A91A0537/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/23A91A0537/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23A91A0537/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/23A91A0537/LeetCode/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/23A91A0537/LeetCode/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/23A91A0537/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -100,6 +101,7 @@ Stat:📈
 | [0001-two-sum](https://github.com/23A91A0537/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23A91A0537/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/23A91A0537/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/23A91A0537/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/23A91A0537/LeetCode/tree/master/0127-word-ladder) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -344,6 +346,7 @@ Stat:📈
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/23A91A0537/LeetCode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/23A91A0537/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/23A91A0537/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/23A91A0537/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
