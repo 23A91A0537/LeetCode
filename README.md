@@ -113,6 +113,7 @@ Stat:📈
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/23A91A0537/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Stat:📈
 | [3678-design-task-manager](https://github.com/23A91A0537/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/23A91A0537/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/23A91A0537/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23A91A0537/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -188,6 +190,7 @@ Stat:📈
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/23A91A0537/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +340,7 @@ Stat:📈
 | [2429-design-a-food-rating-system](https://github.com/23A91A0537/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23A91A0537/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/23A91A0537/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -399,6 +403,7 @@ Stat:📈
 | [3678-design-task-manager](https://github.com/23A91A0537/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/23A91A0537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/23A91A0537/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +436,7 @@ Stat:📈
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/23A91A0537/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/23A91A0537/LeetCode/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
