@@ -21,6 +21,7 @@ Stat:📈
 | [0326-power-of-three](https://github.com/23A91A0537/LeetCode/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/23A91A0537/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/23A91A0537/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/23A91A0537/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23A91A0537/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -65,6 +66,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/23A91A0537/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/23A91A0537/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/23A91A0537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/23A91A0537/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -448,6 +450,7 @@ Stat:📈
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/23A91A0537/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/23A91A0537/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/23A91A0537/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
