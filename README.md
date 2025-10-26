@@ -102,6 +102,7 @@ Stat:📈
 | [2023-design-movie-rental-system](https://github.com/23A91A0537/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/23A91A0537/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/23A91A0537/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/23A91A0537/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -171,6 +172,7 @@ Stat:📈
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/23A91A0537/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/23A91A0537/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/23A91A0537/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/23A91A0537/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/23A91A0537/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/23A91A0537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/23A91A0537/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -425,6 +427,7 @@ Stat:📈
 | ------- |
 | [0498-diagonal-traverse](https://github.com/23A91A0537/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/23A91A0537/LeetCode/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/23A91A0537/LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/23A91A0537/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/23A91A0537/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/23A91A0537/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -438,6 +441,7 @@ Stat:📈
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/23A91A0537/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/23A91A0537/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/23A91A0537/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/23A91A0537/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/23A91A0537/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/23A91A0537/LeetCode/tree/master/3797-design-spreadsheet) |
