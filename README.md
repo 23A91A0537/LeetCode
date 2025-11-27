@@ -145,6 +145,7 @@ Stat:📈
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/23A91A0537/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/23A91A0537/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/23A91A0537/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/23A91A0537/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/23A91A0537/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/23A91A0537/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -207,6 +208,7 @@ Stat:📈
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/23A91A0537/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/23A91A0537/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23A91A0537/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/23A91A0537/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/23A91A0537/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23A91A0537/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/23A91A0537/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -463,6 +465,7 @@ Stat:📈
 | [2529-range-product-queries-of-powers](https://github.com/23A91A0537/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/23A91A0537/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/23A91A0537/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/23A91A0537/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/23A91A0537/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/23A91A0537/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/23A91A0537/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
