@@ -203,6 +203,7 @@ Stat:📈
 | [0127-word-ladder](https://github.com/23A91A0537/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/23A91A0537/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/23A91A0537/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/23A91A0537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/23A91A0537/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -248,6 +249,7 @@ Stat:📈
 | [0127-word-ladder](https://github.com/23A91A0537/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/23A91A0537/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/23A91A0537/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/23A91A0537/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/23A91A0537/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/23A91A0537/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/23A91A0537/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -412,6 +414,7 @@ Stat:📈
 | [0017-letter-combinations-of-a-phone-number](https://github.com/23A91A0537/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/23A91A0537/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/23A91A0537/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/23A91A0537/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/23A91A0537/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/23A91A0537/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -517,6 +520,7 @@ Stat:📈
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/23A91A0537/LeetCode/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/23A91A0537/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/23A91A0537/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/23A91A0537/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/23A91A0537/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
