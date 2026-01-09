@@ -210,6 +210,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/23A91A0537/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/23A91A0537/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/23A91A0537/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/23A91A0537/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/23A91A0537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/23A91A0537/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -578,6 +579,7 @@ Stat:📈
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/23A91A0537/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/23A91A0537/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/23A91A0537/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/23A91A0537/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/23A91A0537/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/23A91A0537/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -605,6 +607,7 @@ Stat:📈
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/23A91A0537/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/23A91A0537/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/23A91A0537/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
@@ -617,6 +620,7 @@ Stat:📈
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/23A91A0537/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -624,6 +628,7 @@ Stat:📈
 | [0407-trapping-rain-water-ii](https://github.com/23A91A0537/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/23A91A0537/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/23A91A0537/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/23A91A0537/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/23A91A0537/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/23A91A0537/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/23A91A0537/LeetCode/tree/master/3863-power-grid-maintenance) |
