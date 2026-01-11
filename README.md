@@ -82,6 +82,7 @@ Stat:📈
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23A91A0537/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/23A91A0537/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/23A91A0537/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/23A91A0537/LeetCode/tree/master/0135-candy) |
@@ -347,6 +348,7 @@ Stat:📈
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/23A91A0537/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/23A91A0537/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/23A91A0537/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -598,6 +600,7 @@ Stat:📈
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/23A91A0537/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/23A91A0537/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/23A91A0537/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -662,6 +665,7 @@ Stat:📈
 | ------- |
 | [0036-valid-sudoku](https://github.com/23A91A0537/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/23A91A0537/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/23A91A0537/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/23A91A0537/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/23A91A0537/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -688,6 +692,7 @@ Stat:📈
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/23A91A0537/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/23A91A0537/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/23A91A0537/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/23A91A0537/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
