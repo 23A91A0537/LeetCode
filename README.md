@@ -93,6 +93,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/23A91A0537/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/23A91A0537/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/23A91A0537/LeetCode/tree/master/0679-24-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0537/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/23A91A0537/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/23A91A0537/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/23A91A0537/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -318,6 +319,7 @@ Stat:📈
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/23A91A0537/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/23A91A0537/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0537/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/23A91A0537/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23A91A0537/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/23A91A0537/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
