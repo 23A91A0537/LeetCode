@@ -161,6 +161,7 @@ Stat:📈
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/23A91A0537/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/23A91A0537/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0537/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23A91A0537/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23A91A0537/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/23A91A0537/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/23A91A0537/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -241,6 +242,7 @@ Stat:📈
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/23A91A0537/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/23A91A0537/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/23A91A0537/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23A91A0537/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23A91A0537/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/23A91A0537/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/23A91A0537/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -309,6 +311,7 @@ Stat:📈
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/23A91A0537/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/23A91A0537/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/23A91A0537/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23A91A0537/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/23A91A0537/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/23A91A0537/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/23A91A0537/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -509,6 +512,7 @@ Stat:📈
 | [2402-meeting-rooms-iii](https://github.com/23A91A0537/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/23A91A0537/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/23A91A0537/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/23A91A0537/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/23A91A0537/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/23A91A0537/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/23A91A0537/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
